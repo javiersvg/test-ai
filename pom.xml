@@ -24,7 +24,7 @@
     <connection/>
     <developerConnection/>
     <tag/>
-    <url/>
+    <url>https://github.com/javiersvg/test-ai.git</url>
   </scm>
   <properties>
     <java.version>21</java.version>
